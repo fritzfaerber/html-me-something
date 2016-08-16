@@ -39,3 +39,8 @@ p{
     background-color: orange;
     font-family: fantasy;
 }
+figcaption{
+    font-style: italic;
+    color: yellow;
+    text-align: center;
+}
